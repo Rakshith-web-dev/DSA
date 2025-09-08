@@ -13,6 +13,5 @@ public:
                 currentSum=0;
             }
         }
-    return maxSum;
-    }
+    return maxSum;    }
 };
